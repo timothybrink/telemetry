@@ -11,7 +11,7 @@
     "express-ws": "^4.0.0",
     "golden-layout": "^1.5.9",
     "serialport": "^9.0.1",
-    "ws": "^7.3.1",
+    "ws": "^7.4.6",
     "yargs": "^16.0.0"
   },
   "devDependencies": {
